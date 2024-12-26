@@ -20,14 +20,6 @@ Here’s a list of programming languages, tools, and technologies I work with:
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-## Stats  
-
-![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=avstiix&show_icons=true&theme=radical)  
-
-## Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avstiix&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-
 ## Contact  
 
 You can reach me through Discord [here](https://discord.com/users/1244907617319391315).  
