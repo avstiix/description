@@ -1,5 +1,3 @@
-# Welcome to my personal GitHub profile! Here's a bit about me.  
-
 ## About Me  
 
 Hi! I'm Luna, also known as Avstiix. I’m a web developer and computing enthusiast. I currently work at **Roblox Corporation**, and I also own a small company called **Radiance Dynamics**, which specializes in building **Discord bots** and custom **APIs**.  
