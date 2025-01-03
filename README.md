@@ -2,7 +2,7 @@
 
 Hi! I'm Luna, also known as Avstiix. I’m 16 years old and have lived in **Miami, Florida** my whole life. I’m a web developer and computing enthusiast currently working at **Roblox Corporation**. I also run my own company, **Radiance Dynamics**, where I specialize in creating **Discord bots** and custom **APIs**.  
 
-I love working on both frontend and backend development, but I’m also really into low-level computing projects like building kernels and operating systems. Tech has always been a big part of my life, and I’m always looking for new challenges to take on and skills to learn.
+I love working on both frontend and backend development, but I’m also really into low-level computing projects like building kernels and operating systems.
 
 ## Skills  
 
