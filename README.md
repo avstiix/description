@@ -4,7 +4,7 @@
 ![Location Badge](https://img.shields.io/badge/Location-Florida,%20USA-blue?style=for-the-badge)
 ![Role Badge](https://img.shields.io/badge/Role-Computer%20Systems%20Engineer-blue?style=for-the-badge)
 
-Also known as **xymivz** or **avstiix**.
+Also known as **lunariquee** or **avstiix**.
 
 ## About Me
 
