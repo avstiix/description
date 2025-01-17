@@ -18,4 +18,4 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xymivza&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&border_radius=10&card_width=600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunariquee&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&border_radius=10&card_width=600)
